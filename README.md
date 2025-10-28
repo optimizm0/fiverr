@@ -2,7 +2,8 @@
 
 ## Pair Extraordinaire
 We completed the Pair Extraordinaire challenge together!
-
+1. devnova777
+2. optimizm0
 ## 💻 About This Project
 
 A full-stack Fiverr clone built with the latest web technologies.
