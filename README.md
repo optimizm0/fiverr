@@ -1,5 +1,9 @@
 # 🚀 Fiverr Clone - Next.js 15 + React 19
 
+## Pair Extraordinaire
+We completed the Pair Extraordinaire challenge together!
+
+## 💻 About This Project
 
 A full-stack Fiverr clone built with the latest web technologies.
 
