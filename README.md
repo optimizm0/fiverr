@@ -6,6 +6,9 @@ We completed the Pair Extraordinaire challenge together!
 2. optimizm0
 ## 💻 About This Project
 
+## Pair Extraordinaire ✨
+This change was made together by @devnova777 and @optimizm0 as part of the Pair Extraordinaire challenge.
+
 A full-stack Fiverr clone built with the latest web technologies.
 
 ## ⚡ Tech Stack
